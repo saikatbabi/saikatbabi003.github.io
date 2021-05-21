@@ -1,0 +1,28 @@
+
+.container{
+    padding: 10%;
+    color: rgb(255 255 255);
+    text-shadow: 6px 6px 6px rgb(32 31 31);
+    font-family: 'Roboto', sans-serif;
+    font-size: xx-large;
+    
+
+}
+ul{
+    
+    font-size: x-large;
+    font-weight: bold;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:x-large;
+    font-weight: bold;
+}
+#fb{
+    border: 2px solid rgb(7, 62, 211);
+     border-radius: 50%;
+  }
+  #linkedin{
+    border: 2px solid rgb(7, 62, 211);
+  }
